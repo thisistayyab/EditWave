@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EditWave/static/css/main.073c9b0a.css",
+    "main.js": "/EditWave/static/js/main.ab9fdd01.js",
+    "static/js/787.48f885e2.chunk.js": "/EditWave/static/js/787.48f885e2.chunk.js",
+    "index.html": "/EditWave/index.html",
+    "main.073c9b0a.css.map": "/EditWave/static/css/main.073c9b0a.css.map",
+    "main.ab9fdd01.js.map": "/EditWave/static/js/main.ab9fdd01.js.map",
+    "787.48f885e2.chunk.js.map": "/EditWave/static/js/787.48f885e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ab9fdd01.js"
+  ]
+}
